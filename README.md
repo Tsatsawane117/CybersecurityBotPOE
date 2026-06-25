@@ -92,6 +92,6 @@ Programming of Event-Driven Applications (POE)
 
 ## Video Demonstration
 
- YouTube presentation link here:
+ YouTube presentation link here: https://youtu.be/AkPScGmzuhI
 
 
