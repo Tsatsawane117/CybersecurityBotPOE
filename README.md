@@ -1,4 +1,4 @@
-# 🔒 Cybersecurity Awareness Bot (POE Part 3)
+#  Cybersecurity Awareness Bot (POE Part 3)
 
 A Windows Forms chatbot built with C# and .NET 8 that helps users learn about cybersecurity, manage security tasks, take quizzes, and track activity.
 
@@ -76,17 +76,6 @@ CREATE TABLE tasks (
 );
 ```
 
-## Example Commands
-
-| Command                                   | Action               |
-| ----------------------------------------- | -------------------- |
-| Add a task to enable 2FA                  | Create a task        |
-| Show my tasks                             | View tasks           |
-| Start quiz                                | Begin the quiz       |
-| Show activity log                         | View recent activity |
-| Tell me about phishing                    | Learn about phishing |
-| Remind me to update my password in 3 days | Create a reminder    |
-
 ## Quiz Topics
 
 * Phishing
@@ -103,6 +92,6 @@ Programming of Event-Driven Applications (POE)
 
 ## Video Demonstration
 
-Add your YouTube presentation link here:
+ YouTube presentation link here:
 
-https://youtu.be/YOUR-LINK-HERE
+
